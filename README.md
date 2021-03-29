@@ -35,7 +35,7 @@
 
 ---
 
-### 📺 Videos interessantes sur le Langages !
+### 📺 Videos interessantes sur les differents Langages !
 
 <!-- YOUTUBE:START -->
 - [Cours Complet HTML CSS - Tutoriel pour Débutants et Confirmés [Partie 1/3]](https://www.youtube.com/watch?v=8FqZZrbnwkM)
