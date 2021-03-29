@@ -52,5 +52,5 @@
 - [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
 <!-- YOUTUBE:END -->
 ---
-[twitter] : https://twitter.com/AdriwanNainja 
-[instagram]: https://www.instagram.com/adriwannainja 
+ https://twitter.com/AdriwanNainja 
+ https://www.instagram.com/adriwannainja 
