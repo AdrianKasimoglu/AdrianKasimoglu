@@ -1,5 +1,7 @@
 ### Bonjour, je suis Adrian Kasimoglu - aka Adriwan Nainja👋
 
+### Bonjour, je suis Adrian Kasimoglu - aka Adriwan Nainja👋
+
 ## Je suis un Etudiant qui aime partager des Logiciels/Programmes !
 
 - 🌱 J'essaye d'apprendre tous les langages 🤣
@@ -52,6 +54,5 @@
 - [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
 <!-- YOUTUBE:END -->
 ---
-[website]: 
-[twitter]: https://twitter.com/AdriwanNainja
-[instagram]: https://www.instagram.com/adriwannainja
+[twitter : https://twitter.com/AdriwanNainja ]
+[instagram: https://www.instagram.com/adriwannainja ]
