@@ -7,7 +7,7 @@
 - ⚡ Passe-Temps: J'aime la musique, les animes et les jeux-videos !
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AdriwanNainja Spotify Playing" width="350" />
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AdriwanNainja Spotify Playing" width="350" />
 (https://open.spotify.com/user/21huuaiylr6ktq7lzfkksc34y)
 
 ### VIEN ME REJOINDRE :
